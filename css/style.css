@@ -1169,6 +1169,8 @@ b, strong {
 .client-logo img {
   width: 120px;
   opacity: 1;
+	
+	align-items: center;
 }
 
 .team-box .team-img img {
